@@ -11,7 +11,7 @@
     "doc": "typedoc --out ./documentation/ ./src/"
   },
   "dependencies": {
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "compression": "^1.7.3",
     "debug": "~2.6.9",
